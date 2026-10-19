@@ -5,4 +5,6 @@ This project was done as lab work, but is here to demonstrate the use of the alg
 
 This allows the visualisation of the goodness of fit of multiple parameters (up to 4 here), studying not just peak values, but seeing if these are well constrained, or contain degeneracies in solutions if a change in conditions by changing one parameter can be offset by changing other parameters in a specific way.
 
-![Corner plot of CMB prior best-fit parameters]('CMB_prior.png')
+![Corner plot of CMB prior best-fit parameters](CMB_prior.png)
+
+As can be seen on the off diagonal plots of the corner plot, these elongated elliptical peaks represent degeneracies, where the data best fits a trend in the data, rather than specific values. This can be rectified with more data, which would hopefully anchor the solutions or provide another degeneracy, where the peak values can be inferred from the overlap of the 2 dtistributions.
